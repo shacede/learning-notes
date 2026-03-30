@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Verified API endpoint response schema
 - Added CONTRIBUTING.md stub
+
+## 2026-03-30
+- Fixed off-by-one error in loop
+- Updated dependencies to latest stable versions
