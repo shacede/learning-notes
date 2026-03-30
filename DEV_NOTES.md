@@ -23,3 +23,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Added basic retry logic for network requests
 - Reviewed codebase, identified areas for improvement
+
+## 2026-03-30
+- Refactored module structure for clarity
